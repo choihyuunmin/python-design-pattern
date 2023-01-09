@@ -1,2 +1,2 @@
 # python-design-pattern
-study design pattern with python
+Study design patterns with python
