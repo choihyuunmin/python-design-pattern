@@ -3,7 +3,6 @@ from typing import List
 import random
 
 class Subject(ABC):
-    
     @abstractmethod
     def register_observer(self, obeserver):
         pass
